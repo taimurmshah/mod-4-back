@@ -1,0 +1,25 @@
+User.destroy_all
+Friend.destroy_all
+Userfriend.destroy_all
+
+Friend.create(name: "Ana" , catch_phrase: "The A train gets no bread")
+Friend.create(name: "Anik" , catch_phrase: "WebMD is my daddy")
+Friend.create(name: "Eric" , catch_phrase: "😬")
+Friend.create(name: "Gigi" , catch_phrase: "Javascript for the win")
+Friend.create(name: "Gracie" , catch_phrase: "sup guy?")
+Friend.create(name: "Jarrian" , catch_phrase: "Sorry I'm late")
+Friend.create(name: "Jerold" , catch_phrase: "Nooooooh... shut up")
+Friend.create(name: "Jesus" , catch_phrase: "fffffffffucking shit man")
+Friend.create(name: "Joe" , catch_phrase: "majong?")
+Friend.create(name: "Joel" , catch_phrase: "I had to change my pants when Tashawn showed a picture of Drake")
+Friend.create(name: "John Mark" , catch_phrase: "Well, um, uh, I hate project week")
+Friend.create(name: "Jonathan" , catch_phrase: "oh, you're actually doing that wrong")
+Friend.create(name: "Julissa" , catch_phrase: "I'm very grateful for everyone. Thank you")
+Friend.create(name: "Kiyana" , catch_phrase: "This is easy")
+Friend.create(name: "Mariel" , catch_phrase: "Can you believe that kid called me goth?? I'M NOT GOTH!")
+Friend.create(name: "Patricio" , catch_phrase: "fuck man, i wanna play mafia")
+Friend.create(name: "Roman" , catch_phrase: "I'm absolutely terrified, freaking out, and I don't know what to do")
+Friend.create(name: "Sam" , catch_phrase: "I need sugar now")
+Friend.create(name: "Stephen" , catch_phrase: "i hate puppies and rainbows")
+Friend.create(name: "Susan" , catch_phrase: "Let me make sure I understand...")
+Friend.create(name: "Thompson" , catch_phrase: "Error: User 'Thompson' has too much to say. Not enough space.")
