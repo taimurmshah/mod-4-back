@@ -22,4 +22,4 @@ Friend.create(name: "Roman" , catch_phrase: "I'm absolutely terrified, freaking 
 Friend.create(name: "Sam" , catch_phrase: "I need sugar now")
 Friend.create(name: "Stephen" , catch_phrase: "i hate puppies and rainbows")
 Friend.create(name: "Susan" , catch_phrase: "Let me make sure I understand...")
-Friend.create(name: "Thompson" , catch_phrase: "Error: User 'Thompson' has too much to say. Not enough space.")
+Friend.create(name: "Thompson" , catch_phrase: "Error: Friend 'Thompson' has too much to say. Not enough space.")
