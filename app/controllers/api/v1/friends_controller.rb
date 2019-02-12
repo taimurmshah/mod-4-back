@@ -10,4 +10,15 @@ class Api::V1::FriendsController < ApplicationController
     render json: @friend
   end
 
+  def show
+    @friend = Friend.find(params[:id])
+    render json: @friend
+  end
+
+  def destroy
+    @friend = Friend.find(params[:id])
+    render json: @friend
+    @friend.destroy
+  end
+
 end
